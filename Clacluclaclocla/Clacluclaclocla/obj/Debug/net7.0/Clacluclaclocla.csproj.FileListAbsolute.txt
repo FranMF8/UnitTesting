@@ -1,0 +1,15 @@
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\bin\Debug\net7.0\Clacluclaclocla.exe
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\bin\Debug\net7.0\Clacluclaclocla.deps.json
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\bin\Debug\net7.0\Clacluclaclocla.runtimeconfig.json
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\bin\Debug\net7.0\Clacluclaclocla.dll
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\bin\Debug\net7.0\Clacluclaclocla.pdb
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.csproj.AssemblyReference.cache
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.AssemblyInfoInputs.cache
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.AssemblyInfo.cs
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.csproj.CoreCompileInputs.cache
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.dll
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\refint\Clacluclaclocla.dll
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.pdb
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\Clacluclaclocla.genruntimeconfig.cache
+C:\Users\cejit\source\repos\Clacluclaclocla\Clacluclaclocla\obj\Debug\net7.0\ref\Clacluclaclocla.dll
